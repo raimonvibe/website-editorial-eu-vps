@@ -59,8 +59,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
-        <link rel="canonical" href="https://raimonvibe.eu/" />
+        <link rel="stylesheet" href="/fontawesome-all.min.css" />
+          <link rel="canonical" href="https://raimonvibe.eu/" />
         <link rel="alternate" hrefLang="en" href="https://raimonvibe.eu" />
         <link rel="manifest" href="/manifest.json" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
