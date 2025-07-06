@@ -63,6 +63,7 @@ export default function RootLayout({
           <link rel="canonical" href="https://raimonvibe.eu/" />
         <link rel="alternate" hrefLang="en" href="https://raimonvibe.eu" />
         <link rel="manifest" href="/manifest.json" />
+        <link rel="icon" href="/favicon.ico" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="mobile-web-app-capable" content="yes" />
       </head>
