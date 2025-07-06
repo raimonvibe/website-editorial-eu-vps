@@ -2419,7 +2419,7 @@ button,
 }
 
 .icon-gem:before,.icon-paper-plane:before {
-    font-family: Font Awesome\ 5 Free;
+    font-family: 'Font Awesome 6 Free';
     font-weight: 900
 }
 
@@ -2432,8 +2432,12 @@ button,
 }
 
 .icon-rocket:before,.icon-signal:before {
-    font-family: Font Awesome\ 5 Free;
+    font-family: 'Font Awesome 6 Free';
     font-weight: 900
+}
+
+.icon .label {
+    display: none !important;
 }
 
 .icon-signal:before {
