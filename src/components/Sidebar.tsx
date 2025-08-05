@@ -86,6 +86,7 @@ export default function Sidebar() {
                 <li><Link href="/clients">Clients</Link></li>
                 <li><Link href="/models">3D Models</Link></li>
                 <li><Link href="/projects">Projects</Link></li>
+                <li><Link href="/nigeria">Nigeria</Link></li>
               </ul>
             </li>
             <li><Link href="/resume">Resume</Link></li>
