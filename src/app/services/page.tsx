@@ -81,6 +81,39 @@ export default function Services() {
                 YouTube
               </a>
             </strong>
+
+<hr className="major" />
+
+
+<span className="image main">
+  <Image
+    src="/images/website.jpg"
+    alt=""
+    width={800}
+    height={400}
+    style={{ width: "100%", height: "auto" }}
+  />
+</span>
+
+
+            <h1>Websites for businesses
+            </h1>
+            <p>
+              We develop websites for businesses that want to share their services, location and contact details online. Our focus is on building efficient and scalable solutions that also look good on mobile. Always looking for ways to improve the visibility of our clients.
+            </p>
+     
+            <p>Check out my Service at:</p>
+            <strong>
+              <a
+                className="Social"
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://www.raimonvibe.com/"
+              >
+                raimonvibe.com
+              </a>
+            </strong>
+
           </section>
         </div>
       </div>
