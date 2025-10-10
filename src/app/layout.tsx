@@ -40,13 +40,19 @@ export const metadata: Metadata = {
     description: 'Technical Researcher',
     images: ['https://raimonvibe.eu/images/cover.webp'],
   },
-  icons: {
+   icons: {
     icon: [
-      { url: '/icons/16x16.png', sizes: '16x16', type: 'image/png' },
-      { url: '/icons/32x32.png', sizes: '32x32', type: 'image/png' },
+      { url: '/favicon.ico', sizes: 'any' },
+      { url: '/icon.png', type: 'image/png', sizes: '192x192' },
     ],
-    apple: [
-      { url: '/icons/180x180.png', sizes: '180x180', type: 'image/png' },
+    apple: '/apple-icon.png',
+    other: [
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '192x192',
+        url: '/icon.png',
+      },
     ],
   },
 }
