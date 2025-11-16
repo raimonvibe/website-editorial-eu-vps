@@ -311,6 +311,17 @@ export default function Certificates() {
                   <li><a href="https://www.udemy.com/course/the-complete-ap-physics-course/" className="button" target="_blank" rel="noreferrer">More</a></li>
                 </ul>
               </article>
+            <article>
+              <a href="https://www.udemy.com/course/spring-5-with-spring-boot-2/" className="image">
+                <Image src="/images/java-spring.webp" alt="My Spring Boot certificate from Udemy" width={400} height={300} />
+              </a>
+              <h3>Spring Framework & Spring Boot</h3>
+              <p>I learned how to build modern Java backends with Spring Framework and Spring Boot, including REST APIs, MVC, and working with databases through Spring Data JPA. I also picked up the basics of security, AOP, and deployment so I can deliver clean, production-ready applications.</p>
+              <ul className="actions">
+                <li><a href="https://www.udemy.com/course/spring-5-with-spring-boot-2/" className="button" target="_blank" rel="noreferrer">More</a></li>
+              </ul>
+            </article>
+
             </div>
           </section>
         </div>
